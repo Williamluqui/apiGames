@@ -1,9 +1,6 @@
 <h1 align="center">
-    <img alt="IMG" title="IMG" src=" "  />
+    <img alt="IMG" title="IMG" src="https://user-images.githubusercontent.com/88260564/180133227-f4d8997c-1a44-4a37-84a5-072a7fa6efea.png "  />
 </h1>
-
-
-
 
 
 
@@ -80,9 +77,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-> Veja o arquivo  [package.json]()
+> Veja o arquivo  [package.json](https://github.com/Williamluqui/apiGames/blob/main/package.json)
 
-#### []()**Server**  ([NodeJS](https://nodejs.org/en/)  )
+#### [](https://github.com/Williamluqui/apiGames)**Server**  ([NodeJS](https://nodejs.org/en/)  )
 
 -   **[Express](https://expressjs.com/)**
 
