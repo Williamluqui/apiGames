@@ -54,7 +54,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone  https://github.com/Williamluqui/blog-bootstrap-5
+$ git clone  https://github.com/Williamluqui/apiGames.git
 
 
 # Instale as dependências
