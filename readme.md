@@ -32,8 +32,10 @@
 
 # POST
 - /game
+
 # PUT
 - /game/:id
+
 # DEL
 - /game/:id
 
