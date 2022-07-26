@@ -22,6 +22,9 @@
  Colocando em praticas os conceitos básicos de API, REST e as funcionalidades, GET, POST, PUT, DELETE em Node com express.
 
 ---
+## ⚙️ Funcionalidades
+
+- [x] Login para validação de user.
 
 ## ⚙️ Rotas
 ```bash
@@ -76,8 +79,11 @@ $ npm install
 As seguintes ferramentas foram usadas na construção do projeto:
 
 + Node Express
++ dotEnv
 
-
+## 🔐 Seguranças
++ Middleware
++ JWT
 
 > Veja o arquivo  [package.json](https://github.com/Williamluqui/apiGames/blob/main/package.json)
 
